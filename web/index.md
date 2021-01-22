@@ -235,10 +235,10 @@ html (hyper text markup language)
 
 
 
-## 인터넷
+## [인터넷](internet)
 
 
-## 웹
+## [웹](web)
 
 
 ## 학습정리
